@@ -1,0 +1,32 @@
+
+nav {
+    background-color:rgb(8, 3, 140);
+    
+   }
+   
+   nav ul{
+       display:flex;
+   }
+   nav ul li {
+   list-style: none;
+   }
+   nav ul li a {
+       
+       display: flex;
+       text-decoration: none;
+       display: block;
+       padding:0%;
+       padding-left:100px;
+       color:rgb(21, 211, 236);
+       margin:10px;
+       border-radius: 0.5rem;
+       margin-left:200px;
+       font-weight:lighter;
+       font-size: large;
+       border-radius: 2px;
+       font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   }
+   nav ul li a:hover{
+       color: antiquewhite;
+       text-decoration: underline;
+   }
